@@ -1,7 +1,7 @@
 
-### clone do Front-end do Discord 
+## Clone do Front-end do Discord 
 
-![Tela do jogot](https://github.com/henriquecatunda/Imersao_Game_Dev/blob/master/Screenshot.png)
+![Tela do jogot](https://github.com/henriquecatunda/clone-discord/blob/master/Screenshot.png)
 
 #### Bibliotecas e tecnologias utilizadas:
 
