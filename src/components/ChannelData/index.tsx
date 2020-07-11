@@ -77,7 +77,9 @@ const ChannelData: React.FC = () => {
         </Mensagens>
 
         <InputWrapper>
-            <Input   placeholder=" Conversarem #Chat-livre"/>
+            <Input> 
+            <span> Conversar em #Chat-livre" </span> 
+            </Input>
             <InputIcon/>
         
         </InputWrapper>

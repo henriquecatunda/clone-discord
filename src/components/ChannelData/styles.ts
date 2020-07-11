@@ -58,8 +58,12 @@ background-color:var(--chat-input);
 
 position: relative;
 
-::placeholder{
+> span{
+   
     color:var(--gray);
+    top:12px;
+    position:relative;
+    
 
 }
 
